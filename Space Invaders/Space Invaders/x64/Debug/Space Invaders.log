@@ -1,0 +1,6 @@
+﻿  Space Invaders.cpp
+C:\Users\Sanya_Bolt\source\repos\Space Invaders\Space Invaders\Space Invaders.cpp(311,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Sanya_Bolt\source\repos\Space Invaders\Space Invaders\Space Invaders.cpp(331,15): warning C4305: инициализация: усечение из "int" в "bool"
+C:\Users\Sanya_Bolt\source\repos\Space Invaders\Space Invaders\Space Invaders.cpp(335,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Sanya_Bolt\source\repos\Space Invaders\Space Invaders\Space Invaders.cpp(261): warning C4715: Rng_enemy: значение возвращается не при всех путях выполнения
+  Space Invaders.vcxproj -> C:\Users\Sanya_Bolt\source\repos\Space Invaders\x64\Debug\Space Invaders.exe

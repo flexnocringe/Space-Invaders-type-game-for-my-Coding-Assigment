@@ -1,0 +1,21 @@
+*********************************************
+*                                           *
+*     SSSSS  PPPPP   AAA    CCCC  EEEEE     *
+*     S      P   P  A   A  C      E         *
+*     SSSSS  PPPPP  AAAAA  C      EEEEE     *
+*         S  P      A   A  C      E         *
+*     SSSSS  P      A   A   CCCC  EEEEE     *
+*                                           *
+*  I  N  N  V  V  AA  DDD   OO  RRR    SSS  *
+*  I  NN N  V  V A  A D  D O  O R  R  SS    *
+*  I  N NN  V  V AAAA D  D O  O RRR     SS  *
+*  I  N  N   VV  A  A DDD   OO  R  R  SSS   *
+*                                           *
+*              Press P to Play              *
+*                                           *
+*              Press Q to Quit              *
+*                                           *
+*      Controls: A D - Move; S - Shoot      *
+*                                           *
+*********************************************
+                                             
